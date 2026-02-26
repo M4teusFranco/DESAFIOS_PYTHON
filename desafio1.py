@@ -1,0 +1,1 @@
+print('Olá, Mundo Python!') # Script de Hello, World
